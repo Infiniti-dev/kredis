@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.license  = "MIT"
 
   s.required_ruby_version = ">= 2.7.0"
-  s.add_dependency "activesupport", ">= 6.0.0"
+  s.add_dependency "activesupport", ">= 5.2"
   s.add_dependency "redis", "~> 4.2"
   s.add_development_dependency "rails", ">= 6.0.0"
 
